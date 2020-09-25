@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T14:49:15.804Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="2rQ4x86-giKfZvfUyrnj" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T14:50:54.067Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="bf3ckPuoYtQrGewWtk0O" version="13.7.5" type="github">
   <diagram id="DALEJBTmsK7Otk4iofc6" name="Page-1">
     <mxGraphModel dx="3565" dy="2008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="290" y="208" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0qvkcf1HlTovehnMV8BA-6" value="https://paris-api-dev.fleetship.com/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="328" width="210" height="30" as="geometry" />
+          <mxGeometry x="510" y="320" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0qvkcf1HlTovehnMV8BA-8" value="swagger&amp;nbsp; dev-paris2&lt;br&gt;https://paris2-dev.fleetship.com/swagger/#/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="620" width="280" height="60" as="geometry" />
@@ -55,8 +55,8 @@
         <mxCell id="0qvkcf1HlTovehnMV8BA-43" value="iPad App" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="120" y="600" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0qvkcf1HlTovehnMV8BA-47" value="paris 2.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="260" width="230" height="40" as="geometry" />
+        <mxCell id="0qvkcf1HlTovehnMV8BA-47" value="paris 2.0 &lt;b&gt;url??&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="260" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0qvkcf1HlTovehnMV8BA-56" value="&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;/inspections&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="88" width="120" height="30" as="geometry" />
@@ -83,6 +83,9 @@
         </mxCell>
         <mxCell id="0qvkcf1HlTovehnMV8BA-71" value="empty" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="445" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0qvkcf1HlTovehnMV8BA-74" value="paris 1.0 &lt;b&gt;url??&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
